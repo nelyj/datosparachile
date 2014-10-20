@@ -927,7 +927,7 @@ section * {
   margin-left: 20px;
 }
 .header-4 .background {
-  background-image: url("../../../common-files/img/Hawaii_001.jpg");
+  background-image: url("Hawaii_001.jpg");
   opacity: 100;
   filter: alpha(opacity=10000);
   opacity: 1;
